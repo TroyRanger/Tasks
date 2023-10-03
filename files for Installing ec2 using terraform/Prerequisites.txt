@@ -1,0 +1,4 @@
+1.AWS Account
+2.Terraform installed
+3.AWS CLI installed & IAM User with permissions
+4.SSH key pair
